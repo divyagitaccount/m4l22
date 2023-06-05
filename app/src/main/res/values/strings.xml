@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">m4l2</string>
+    <string name="pubg">pubg</string>
+    <string name="valorant">valorant</string>
+    <string name="csgo">csgo</string>
+    <string name="which_is_your_favourite_game">which is your favourite game?</string>
+    <string name="see_results">see results</string>
+</resources>
